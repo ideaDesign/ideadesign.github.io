@@ -1,5 +1,3 @@
-# SOS Game - Privacy Policy
-- https://ideadesign.github.io/privacy
+## [SOS Game - Privacy Policy](https://ideadesign.github.io/privacy)
 
-# SOS Game - Terms & Conditions
-- https://ideadesign.github.io/terms
+## [SOS Game - Terms & Conditions](https://ideadesign.github.io/terms)
